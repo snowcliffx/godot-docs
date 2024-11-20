@@ -31,8 +31,7 @@ this tutorial, we will use groups to mark and handle objects to be saved,
 but other methods are certainly possible.
 
 We will start by adding objects we wish to save to the "Persist" group. We can
-do this through either the GUI or script. Let's add the relevant nodes using the
-GUI:
+do this via GUI or script. Let's add the relevant nodes using the GUI:
 
 .. image:: img/groups.png
 
