@@ -6,7 +6,7 @@ Saving games
 Introduction
 ------------
 
-Save games can be complicated. For example, it may be desirable
+Saving games can be complicated. For example, it may be desirable
 to store information from multiple objects across multiple levels.
 Advanced save game systems should allow for additional information about
 an arbitrary number of objects. This will allow the save function to
